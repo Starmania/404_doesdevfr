@@ -10,7 +10,7 @@ def index():
     # Render the error page and send to client
     return render_cf_error_page({
         "title": "Skill issue (Page not found)",
-        "error_code": "Nahhh",
+        "error_code": " ? Nahhh",
         "more_information": {
             "hidden": False,
             "text": "cloudflare.com",
