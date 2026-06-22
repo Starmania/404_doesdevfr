@@ -39,7 +39,7 @@ def index():
         "what_happened": "You tried to access my website but you have no skills. Too bad for you.",
         "what_can_i_do": "Get better.",
         "perf_sec_by": {
-            "text": "Geofront",
+            "text": "the GeoFront",
             "link": "https://doesdev.fr"
         },
         "html_title": "Skill issue (Page not found)",
